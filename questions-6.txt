@@ -1,2 +1,7 @@
 6 /// If p => q, which of the following is necessarily true: A) ~q => ~p  B) ~p => ~q  C) q => p  D) p => ~q /// A
-6 /// 
+6 /// Identify the fallacy in the following "proof": A is a subset of B and B is a subset of C implies A is a subset of C. Therefore if A is a subset of C, A is a subset of B.  A) Assuming the contrapositive  B) Assuming the converse  C) Assuming the unknown  D) Solving for x /// B
+6 /// A proof that X exists by proving precisely what X is is what kind of proof: A) Constructive  B) Destructive  C) Instructive  D) Indirect /// A
+6 /// If we prove that A is a subset of B, what else must we prove to show that A = B? A) A and B are disjoint  B) |A|=|B|  C) B is a superset of A  D) B is a subset of A /// D
+6 /// For set A, universe U, and complement Ac, which of the following is insufficient to show that A is empty: A) A intersect Ac = {}  B) There does not exist x in U such that x in A  C) A union Ac = U  D) For all x in U, x not in A  D) /// C 
+6 /// For rational number x and integers p and q such that x = p/q, which of the following can you prove with certainty: A) p and q are relatively prime  B) If x < 0, then either p > 0 or q > 0  C) x is in the cartesian product Z x Z  D) p and q are linearly independent /// B
+6 /// Consider the following erroneous proof that subset is transitive: Let A be a subset of B and B be a subset of C. Assume that A is a subset of C. Then it is not possible that A is not a subset of C, therefore A is a subset of C. What logical error does this demonstrate? A) Proof by contradiction  B) Reusing variables  C) Arguing from example  D) Begging the question /// D
