@@ -1,3 +1,7 @@
 3 /// The complement of the union is: A) The union of the complements  B) The complement of the difference  C) The intersection of the complements  D) The powerset of the union /// C
 3 /// The @ operator in SML is closest to which of the following set operations: A) Union  B) Complement  C) Difference  D) Intersection /// A
 3 /// Evaluate the result of the following SML expression: [1,2,3]::[[4,5,6]]; A) [1,2,3,4,5,6]  B) [[1,2,3], 4,5,6]  C) [1,2,3,[4,5,6]]  D) [[1,2,3],[4,5,6]] /// D
+3 /// Let SQL table 'A' with single integer column 'x' have rows 1,2,3,4. Let SQL table 'B' with single integer column 'x' have rows 2,3,4,5. Then the intersection of the sets {1,2,3,4} and {2,3,4,5} is given by which of the following SQLite queries: A) SELECT x FROM A INTERSECT SELECT x FROM B;  B) SELECT x FROM A UNION SELECT x FROM B;  C) SELECT x FROM A, B;  D) SELECT x FROM A UNION SELECT COMPLEMENT(x) FROM B; /// A
+3 /// If x in B, then which of the following is necessarily true?  A) x in A-B  B) x not in A-B  C) x not in A U B  D) x not in A intersect B /// B
+3 /// If |A|=c, then |powerset(A)|=  A) 2n  B) n^2  C) 2^n  D) n^n /// C
+3 /// If A and B are disjoint, then |A-B|=  A) |A|  B) |B|  C) A-B  D) |A|-|B| /// D
