@@ -1,0 +1,7 @@
+7 /// Let A={a,b,c} and B={1,2,3}. Which subset demonstrates a relation from A to B? A) R={(a,1),(b,2),(c,2)} B) Q={(1,a),(2,b)} C) All of the above D) None of the above /// A
+7 /// Is the following relation on the set {1, 2, 3, 4} reflexive, symmetric, antisymmetric, or transitive? {(2, 2),(2, 3),(2, 4),(3, 2),(3, 3),(3, 4)} A) Reflexive B) Transitive C) Symmetric D) Antisymmetric /// B
+7 /// Is the following relation on the set {1, 2, 3, 4} reflexive, symmetric, antisymmetric, or transitive? {(2, 4),(4, 2)} A) Antisymmetric B) Reflexive C) Symmetric D) Transitive /// C
+7 /// Is the following relation on the set {1, 2, 3, 4} reflexive, symmetric, antisymmetric, or transitive? {(1, 2),(2, 3),(3, 4)} A) Reflexive B) Transitive C) Symmetric D) Antisymmetric /// D
+7 /// Is the following relation on the set {1, 2, 3, 4} reflexive, symmetric, or antisymmetric? {(1, 3),(1, 4),(2, 3),(2, 4),(3, 1),(3, 4)} A) Reflexive B) Symmetric C) Antisymmetric D) None of the above /// D
+7 /// Is the following relation on the set {1, 2, 3, 4} reflexive, symmetric, or transitive? {(1, 1),(1, 2),(2, 1),(2, 2),(3, 3),(4, 4)} A) Reflexive B) Symmetric C) Transitive D) All of the above /// D
+7 /// When graphed, which relation will always have unidirectional edges? A) Antisymmetric B) Symmetric C) Transitive D) Reflexive /// A
