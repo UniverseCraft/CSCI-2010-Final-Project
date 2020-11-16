@@ -1,0 +1,2 @@
+6 /// If p => q, which of the following is necessarily true: A) ~q => ~p  B) ~p => ~q  C) q => p  D) p => ~q /// A
+6 /// 
