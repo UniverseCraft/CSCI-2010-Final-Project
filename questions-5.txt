@@ -1,0 +1,7 @@
+5 /// If A is true and B is false, then what is A ∨ B:  A) false  B)  true  C) undefined  D) none of the above /// B
+5 /// If A is false and B is true, then what is A ∧ B:  A) false  B)  true  C) undefined  D) none of the above /// A
+5 /// What is negation:  A) is false when A is true, and is true when A is false  B)  is true when A is true, and is false when A is false  C) is always true  D) is always false /// A
+5 /// If A then B. which of the following is correct:  A) if A is false, then B true, the rest is false  B) if A is true, then B true, the rest is false  C) if A is false, then B false, the rest is false  D) if A is true, then B is false, the rest if false  /// D
+5 /// What is a contradiction:  A) a formula which is true for every value of its propositional variables  B) a formula which is not true or false for every value of its propositional variables C) a formula which is false for every value of its propositional variables  D) none of the above /// C
+5 /// What is the inverse of "If you study, you won't fail": A) "If you don't study, you won't fail"  B) "If you don't study, you will fail"  C) "If you study, you will fail"  D) "If study you won't fail" /// B
+5 /// What is the converse of "If you study, you won't fail": A) "If you don't study, you won't fail"  B) "If you will not fail, you won't study"  C) "If you will not fail  D) "If you will not, you will study" /// D
