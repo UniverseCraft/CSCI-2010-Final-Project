@@ -1,7 +1,0 @@
-2 /// Which of the following is not a number type:  A) all real numbers  B) all complex numbers  C) all strings  D) all integars /// C
-2 /// What is the symbol for "All integars are rational numbers": A) Z⊆Q  B) 5∈N  C) Q⊆Q  D) none of the above /// A
-2 /// What is the result of 12 ∈ N:  A) False, because 12 is a natural number  B)  True, beacuse 12 is a real number  C) False, because 12 is not a natural number  D) True, because 12 is a whole number /// C
-2 /// What is the definition of a bit:  A) 8 bytes  B) a state on or off / 0 or 1  C) a really large number  D) memory dump /// B
-2 /// Contiune the following "32, 64, 128, 256, 512, __": A) 1021  B) 2^8  C) 0  D) 1024 /// D
-2 /// Which of the following is in Hexadecimal form:  A) 0x7A  B)  0b1111010  C) 010101  D) all the above /// A
-2 /// What is the result of adding 1011 and 1101:  A) 10010  B)  1011  C) 2112  D) 11000 /// D
