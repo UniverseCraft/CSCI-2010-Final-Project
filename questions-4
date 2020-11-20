@@ -1,0 +1,7 @@
+4 /// A list may be comprised of tuples if each group has the same: A) Cardinality B) Element C) Length D) Characters /// A
+4 /// In SML, what symbol defines a character literal? A) ? B) # C) ! D) _ /// B
+4 /// What is the head of the following list? val myList = [1,2,3,4] A) 3 B) 2 C) 1 D) 4 /// C
+4 /// How would we prepend 5, a single element, to the front of a list? A) 5@[1,2,3,4] B) hd([5,1,2,3,4]) C) 5:[1,2,3,4] D) 5::[1,2,3,4] /// D
+4 /// Is it possible to make custom lists in SML? A) Yes B) No C) Maybe D) Probably /// A
+4 /// What is the type of the following list of lists? [[], [1,2], [3,4]] A) list list list B) int list list C) list D) int /// B
+4 /// What is the tail of the following list? val myList = [1,2,3,4] A) [4] B) (2,3,4) C) [2,3,4] D) [3,4] /// C
