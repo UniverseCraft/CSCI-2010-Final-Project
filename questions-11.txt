@@ -1,0 +1,7 @@
+11 /// What is defined as a graph:  A) A collection of distinct vertices which are connected by edges  B) A collection of lines that never intersect  C) A collection of points that aren't connected  D) None of the above. /// A
+11 /// Which of the following is the correct denotion of a graph:  A) G = G(V)  B) deg(v1) = 2  C) G(V, E)  D) None of the above. /// C
+11 /// Which of the can an undirected graph not be:  A) Connected  B) Complete  C) Disconnected  D) Incomplete /// D
+11 /// How can you construct a graph:  A) Using a list data structure, store objects of vertexes  B) Store the vertex details in a string  C) You can't, you must display it as the function runs  D) A and B /// D
+11 /// To avoid ambiguity, directed graph may be called a:  A) undirected complex graph  B) directed complex graph  C) undirected simple graph  D) directed simple graph // D
+11 /// Which of the following might be apply to computer science graphs:  A) Used to represent networks of communication B)  Used to study molecules  C) study social network behavier  D) none of the above // A
+11 /// Which of the following is a way to calculate the distance between each vertex:  A)  (x2-x1)/(y2-y1)  B)  y-y1=m(x-x1)  C) ((x1 - x2)^2 + (y1 - y2)^2)^1/2  D) None of the above /// C
