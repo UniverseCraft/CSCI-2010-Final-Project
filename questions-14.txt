@@ -1,0 +1,7 @@
+14 /// What is an alphabet:  A) A set of symbols  B) A sentence  C) A set of numbers  D)  all of the above /// A 
+14 /// An automaton is:  A) a modal that requires the user to work  B)  a modal of a machine that works on its own  C) abstract device or a modal of computation  D)  Both B and C /// D 
+14 /// When the machine has a finite number of possible states, that is known as:   A) nondeterministic infinite automation (NIA) B)  deterministic finite automation (DFA)  C) nondeterministic finite mation (NFM)  D)  all the above /// B 
+14 /// Which of the following is similar to DFA (deterministic finite automation) but in some states it has more then one possible transition for the same symbol:   A) nondeterministic infinite automation (NFA) B)  deterministic finite automation (DFA)  C) nondeterministic finite mation (NFM)  D)  all the above /// A 
+14 /// What is the defintion of the following symbol "∅":  A) the set/language of no strings B)  the set/language only empty strings  C) the set/language only string with symbol a D)  all the above /// A 
+14 /// What is the defintion of the following symbol "ε":  A) the set/language of no strings B)  the set/language only empty strings  C) the set/language only string with symbol a D)  all the above /// B 
+14 /// What is the defintion of the following symbol "a":  A) the set/language of no strings B)  the set/language only empty strings  C) the set/language only string with symbol a D)  all the above /// C
