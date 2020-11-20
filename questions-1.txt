@@ -1,0 +1,7 @@
+1 /// "val bindings" and "val declarations" are two basic types of what? A) Expressions B) Functions C) Declarations D) Recursion /// C
+1 /// What symbol is used in SML to separate different cases? A) | B) _ C) ^ D) ~ /// A
+1 /// In SQL, this clause will allow us to sort query results: A) INSERT B) SORT C) GROUP BY D) ORDER BY /// D
+1 /// In SQL, which command will allow us to clear table data? A) CLEAR B) DELETE C) DROP D) REMOVE /// B
+1 /// In SML, what keyword declares a function named "complex"? A) fun complex B) function complex C) funComplex D) .funcomplex /// A
+1 /// This returns true if c is a lowercase letter: A) lower c B) isLower c C) isLowercase c D) lowercase c /// B
+1 /// What type does "5" have in SML? A) Real B) Integer C) Boolean D) String /// B
