@@ -1,0 +1,7 @@
+8 /// Which of the following is not a type of recursion:  A) Direct  B) Friendship  C)  Tail  D) Indirect /// B
+8 /// Which of the following is a rule of recursion:  A) Function logic alters the input  B) Function does not require input  C) No cases are included  D) Returns no output  /// A
+8 /// What is mathematical induction:  A) Solution found in final state of input or the sequence of input  B) A way to disprove statements about structures like sets, lists, and trees  C) A empty set  D) A way to prove statements about structures like sets, lists, and trees  /// D
+8 /// Which of the following is not suitable for recursion:  A) Solutions that does not invovled branching  B) Processing small amounts of input  C) Solutions with branching with small inputs  D) Solutions that branch with large inputs  /// D
+8 /// When would it be suitable to use recursion:  A) Solutions that has branching  B) When preformance could be worse  C) Need an accumulated value where variables are immutable  D) None of the above /// C
+8 /// Which of the following is true:  A) Immutability is default for value bindings in SML  B) Immutability is not default for value bindings in SML C) Immutability is variable depending on the value type  D) None of the above /// A
+8 /// How are reference variables defined in SML:  A) val x_ref = 0;  B) val ref x = 0;  C) val x_ref = ref 0;  D) None of the above /// C
