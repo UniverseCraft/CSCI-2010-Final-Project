@@ -1,0 +1,7 @@
+13 /// Which of the following is one of the uses of unsupervised learning? A) Anomaly detection B) Data categorization C) Dimension reduction D) All of the above /// D
+13 /// What does the input layer contain? A) A Kohonen network B) Nodes representing input vectors C) BMUs D) Competitive nodes /// B
+13 /// Which is one of the two parts of the self-organization mapping procedure? A) Training B) Practicing C) Vectoring D) Signaling /// A
+13 /// What is one of the things that nodes in a neighborhood can reveal? A) Vectors B) Data C) Relationships D) Topology /// C
+13 /// What form can a topology take? A) Linear B) Multi-dimensional C) Square D) All of the above /// D
+13 /// What is the value of the winning neuron in this linear output layer? 0 0 0 1 2 3 2 1 0 0 A) 3 B) 2 C) 1 D) 0 /// A
+13 /// In pseudocode, what does "Epoch t" represent? A) Number of sample sets B) Current training set C) Sample from training set D) Data from which training sets are taken /// B

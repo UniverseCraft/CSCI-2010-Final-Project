@@ -1,0 +1,7 @@
+10 /// Which of the following are some of the factors in determining algorithmic performance? A) CPU B) Runtime behavior C) Complexity of the algorithm D) All of the above /// D
+10 /// To make an objective comparison of algorithms, which performance factor do we focus on? A) Code length B) Compiler C) Complexity D) Distribution of algorithm /// C
+10 /// What is the problem size of the following code? fun sumList1 ([]) = 0 | sumList1 (hd::tl) = hd + sumList1(tl); A) 1 B) 2 C) 3 D) 4 /// B
+10 /// What is the mathematical shorthand, Big-O, used to describe? A) Time-complexity B) Average-complexity C) Growth rate D) None of the above /// A
+10 /// Which of the following is the most time efficient? A) O(1) B) O(n^2) C) O(n^3) D) O(2^n)/// A
+10 /// When does a reccurence relation occur? A) When a funtion T() is present B) When a function T() occurs on both sides of the = sign C) When a function T() occurs on one side of the = sign D) When there is an = sign present /// B
+10 /// What is one of the general ideas to consider when selecting an algorithm? A) Pick a solution requiring the LEAST number of operations B) Pick a solution requiring the MOST number of operations C) Choose the one that is exponential even if constant or logarithmic algorithms are available D) Close your eyes and pick at random  /// A
