@@ -1,0 +1,7 @@
+9 // For f:D -> R, if for all r in R there exists d in D such that f(d) = r, then f is: A) injective  B) symmetric  C) surjective  D) projective // C
+9 // For f:D -> R, if for all x,y in D, f(x) = f(y) implies x = y, then f is: A) injective  B) symmetric  C) surjective  D) projective // A
+9 // For f:D -> R and g:R -> D, if f(g(x)) = g(f(x)) = x, then g is: A) invertible  B) injective  C) surjective  D) all of the above // D
+9 // As the set of natural numbers N is isomorphic to N, we say that it is: A) uncountably infinite  B) countably infinite  C) uncountably finite  D) countably finite // B
+9 // Let f be an SML function which takes one function g int -> int as a parameter and returns another function int -> int. Which of the following is valid syntax: A) f(g(5))  B) f(g)(5)  C) f(5)(g)  D) g(f)(5) // B
+9 // In SML, functions can be passed as parameters to other functions. This means that functions are: A) Sets  B) Scalars  C) First-class values  D) Functional languages // C
+9 // The image of a function f:D -> R is defined as: A) {d in D : f(d) = d}  B) {r in R : there exists d in D such that f(d)=r}  C) {d in R : f(r) = D}  D) R - D // B
