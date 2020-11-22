@@ -1,0 +1,7 @@
+12 // A combinational circuit can be described in terms of which two kinds of components: A) true and false  B) wires and gates  C) AND and OR gates  D) xor(a,b) and cond(a,b) // B
+12 // Half adders fail to account for: A) carries  B) adds  C) bits  D) circuits // A
+12 // How many input wires does a full adder have? A) 1  B) 2  C) 3  D)  4 // C
+12 // All lattices are: A) Bounded  B) Posets  C) Unbounded  D) Relations // B
+12 // The outputs of a combinational circuit cannot ever be used as: A) The inputs to the same circuit  B) The inputs to a different circuit  C) Both of the above  D) None of the above // A
+12 // Express the base-10 number 12 in binary with the least significant bit first: A) 1100  B) 1001  C) 0101  D) 0011 // D
+12 // In terms of the AND operator ^, the OR operator v, and the NOT operator ~, p xor q is represented as: A) p v q  B) p ^ (q v p)  C) (p ^ q) v (q ^ ~p)  D) (p v q) ^ ~(p ^ q) // D
